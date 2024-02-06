@@ -1,0 +1,6 @@
+import io.netty.handler.codec.http.multipart.HttpPostRequestEncoder;
+public class FunctionUse1515 {
+public void funcUse() {
+HttpPostRequestEncoder httppostrequestencoder = new HttpPostRequestEncoder();
+}
+}
